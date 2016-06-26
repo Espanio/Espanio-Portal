@@ -599,7 +599,6 @@ h1, h2, h3, h4, h5, h6 {
 ======================*/
 
 #services {
-  background-image: url("../images/services/service-bg.jpg");
   color:#fff;
   text-align:center;
   background-color:	#0A0A13;
@@ -937,7 +936,6 @@ h1, h2, h3, h4, h5, h6 {
 ======================*/
 
 #clients{
-	background-image: url("../images/clients/client-bg.jpg");
 	background-color:#0A0A13;
 }
 
